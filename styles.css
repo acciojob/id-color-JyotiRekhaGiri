@@ -7,10 +7,10 @@
 #red{
 	background: red;
 	border-width: 1px;
-	border-color: green;
+	border-color: black;
 }
 #green{
 	background: green;
 	border-width: 1px;
-	border-color: green;
+	border-color: yellow;
 }
